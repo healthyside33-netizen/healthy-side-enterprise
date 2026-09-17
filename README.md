@@ -1,2 +1,3 @@
-# healthy-side-enterprise
-AI Platform for Healthy Side
+# Healthy Side — Blance Landing Page
+
+صفحة هبوط عربية متجاوبة لعرض بلانس: ٦ قطع بسعر ٧٥ جنيه بدل ٩٠ جنيه لمدة أسبوع.
